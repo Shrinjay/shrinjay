@@ -12,7 +12,7 @@ In short, I turn a good dark roast into meaningful code.
 
 # Stuff I work on: 
 
-:handshake:
+:handshake: **Symbio, a CRM for non-profit partnership managers**. Non-profit leaders face tight budgets and often have to make do with basic tools, I know from my time wtih mutliple Canadian youth-led non profits. Its time to empower our non-profit leaders with products made just for them. Symbio offers action tracking, team management, communications management, and analytics to help non-profit managers build more and better partnerships. I'm still working on this, looking to add complete GMail and GDrive integration alongside an ML engine to help discover new partnerships. I hope to turn this into a launched product in the next 4 months.
 
 **Languages I know**: Java, C#, C++, Python, JavaScript, HTML/CSS \
 **Frameworks I use**: Spring, ASP.NET, ExpressJS, NodeJS, Flask, Angular, React, OpenCV, Tensorflow \
