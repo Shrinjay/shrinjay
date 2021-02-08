@@ -18,8 +18,8 @@ In short, I turn a good dark roast into meaningful code.
 
 ## Other Projects: 
 * :moneybag: **EasySell**, A web-based point of sale for small business and non profits. Integrating transactions, logging, user authentication, inventory mangement and performance analytics using Express, React, MongoDB, and Passport-JWT. My first project, inspired by the hell of being a cashier.
-* :loudspeaker: **Smart-Market**, automating the marketing workflow by generating marketing content using NLP, driven by a GPT-2 Model, and posting to Facebook. 
-* :frog: **PogChat**, enabling location-specific mass video and text chat, using GIS queries and dynamic Vonage video session generation and storage. 
+* :loudspeaker: **Smart-Market**, automating the marketing workflow by generating marketing content using NLP, driven by a GPT-2 Model, and posting to Facebook. Won Best Business Solutions @ MacHacks 2021. 
+* :frog: **PogChat**, enabling location-specific mass video and text chat, using GIS queries and dynamic Vonage video session generation and storage. Built @ HackTheNorth 2020++
 * :stethoscope: **The PuMP Wesbite**, developed an in-house blog and opportunity management platform for PuMP using NodeJS, Express, MongoDB and Passport-JWT.
 * :chart_with_upwards_trend: **Lazy-Buffet**, automated investment analysis for NYSE securities based on fundamental financial analysis, like Buffet, but lazier.
 
