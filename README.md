@@ -6,7 +6,7 @@
 
 * **Tech Lead, Computer Vision @ UWaterloo Aerial Robotics**
 
-In short, I turn a good dark roast into meaningful code. 
+In short, I turn good dark roast into meaningful code. 
 
 ## Stuff I work on: 
 
