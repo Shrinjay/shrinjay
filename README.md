@@ -12,7 +12,7 @@ In short, I turn a good dark roast into meaningful code.
 
 # Stuff I work on: 
 
- 	:handshake:
+:handshake:
 
 **Languages I know**: Java, C#, C++, Python, JavaScript, HTML/CSS \
 **Frameworks I use**: Spring, ASP.NET, ExpressJS, NodeJS, Flask, Angular, React, OpenCV, Tensorflow \
