@@ -19,7 +19,7 @@ In short, I turn good dark roast into meaningful code.
 **Frameworks I use**: Spring, ASP.NET, ExpressJS, NodeJS, Flask, Angular, React, OpenCV, Tensorflow \
 **Tools I can use**: MongoDB, CockroachDB, PostgreSQL, Postman, Git, Github, Atlassian Suite
 
-[![Shrinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrinjay&show_icons=true&hide=issues&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinjay&layout=compact&theme=prussian&exclude_repo=PointofSale,pumpnewwebsite,coding-challenge&hide=HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Shrinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrinjay&show_icons=true&hide=issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinjay&layout=compact&theme=dark&exclude_repo=PointofSale,pumpnewwebsite,coding-challenge&hide=HTML&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
