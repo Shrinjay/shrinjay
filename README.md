@@ -20,6 +20,6 @@ In short, I turn good dark roast into meaningful code.
 **Tools I can use**: MongoDB, CockroachDB, PostgreSQL, Postman, Git, Github, Atlassian Suite
 
 [![Shrinjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrinjay&show_icons=true&hide=issues&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinjay&layout=compact&theme=prussian&hide=PointofSale)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinjay&layout=compact&theme=prussian&hide=PointofSale, pumpnewwebsite, coding-challenge)](https://github.com/anuraghazra/github-readme-stats)
 
 
