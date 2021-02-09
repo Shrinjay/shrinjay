@@ -8,14 +8,13 @@
 
 In short, I turn good dark roast into meaningful code. 
 
-## Stuff I work on: 
+## What I work on: 
 
 * :handshake: **Symbio, a CRM for non-profit partnership managers**. Non-profit leaders face tight budgets and often have to make do with basic tools, I know, as a former non-profit manager. Symbio offers action tracking, team management, communications management, built with Angular, Spring, ASP.NET, Eureka/Zuul and Pandas.
 * :airplane: **Computer Vision System,  Waterloo Aerial Robotics**. I'm leading a team of 6, responsible for developing WARG's first computer vision driven enhanced autopilot to enable in-air and taxi decision making. I provide technical guidance and solution implementation, using Python with a Tensorflow YOLOv2 Model.
 
-## Stuff I know and use:
+## What I know
 
-**Languages I know**: Java, C#, C++, Python, JavaScript, HTML/CSS \
 **Frameworks I use**: Spring, ASP.NET, ExpressJS, NodeJS, Flask, Angular, React, OpenCV, Tensorflow \
 **Tools I can use**: MongoDB, CockroachDB, PostgreSQL, Postman, Git, Github, Atlassian Suite
 
