@@ -1,4 +1,4 @@
-## Heyo, I'm Shrinjay!
+## Hey, I'm Shrinjay!
 
 * **Computer Engineering, Class of 2025 @ uWaterloo**
 
@@ -6,7 +6,7 @@
 
 * **Tech Lead, Computer Vision @ UWaterloo Aerial Robotics**
 
-In short, I turn good dark roast into meaningful code. 
+I turn good dark roast and kombucha into meaningful, beautiful code. 
 
 ## What I work on: 
 
