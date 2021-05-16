@@ -2,9 +2,9 @@
 
 * **Computer Engineering, Class of 2025 @ uWaterloo**
 
-* **Software Development Engineering Intern @Localintel**
-
 * **Tech Lead, Computer Vision @ UWaterloo Aerial Robotics**
+
+* **Formerly: Software Development Engineering Intern @Localintel**
 
 I turn good dark roast and kombucha into meaningful, beautiful code. 
 
