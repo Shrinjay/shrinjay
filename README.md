@@ -3,8 +3,7 @@
 * **Computer Engineering, Class of 2025 @ uWaterloo**
 
 * **Tech Lead, Computer Vision @ UWaterloo Aerial Robotics**
-* **Incoming: Software Developer @ Miovision, ATSPM Team**
-* **Formerly: Software Development Engineering Intern @Localintel**
+* **Software Developer @ Miovision, ATSPM Team**
 
 I turn good dark roast and kombucha into meaningful, beautiful code. Interested in building unique backend and data architectures to sovle mind-boggling problems. 
 
